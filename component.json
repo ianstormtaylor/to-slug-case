@@ -6,7 +6,7 @@
   "description": "Convert a non-slug-case string to a slug-case string.",
   "keywords": ["slug", "case", "slugcase", "string"],
   "dependencies": {
-    "ianstormtaylor/to-space-case": "0.0.1"
+    "ianstormtaylor/to-space-case": "0.1.0"
   },
   "development": {
     "component/assert": "*"
