@@ -3,7 +3,7 @@
   "repo": "ianstormtaylor/to-slug-case",
   "license": "MIT",
   "version": "0.1.1",
-  "description": "Convert a non-slug-case string to a slug-case string.",
+  "description": "Convert a string to a slug case.",
   "keywords": ["slug", "case", "slugcase", "string"],
   "dependencies": {
     "ianstormtaylor/to-space-case": "0.1.1"
