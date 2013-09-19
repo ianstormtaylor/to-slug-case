@@ -1,6 +1,6 @@
 # to-slug-case
 
-  Convert a non-slug-case string to a slug-case string.
+  Convert a string to a slug case.
 
 ## Installation
 
