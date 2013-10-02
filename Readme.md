@@ -5,6 +5,7 @@
 ## Installation
 
     $ component install ianstormtaylor/to-slug-case
+    $ npm install to-slug-case
 
 ## Example
 
