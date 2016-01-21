@@ -1,11 +1,19 @@
 {
   "name": "to-slug-case",
+  "version": "1.0.0",
+  "description": "Convert a string to slug case.",
   "repository": "git://github.com/ianstormtaylor/to-slug-case.git",
   "license": "MIT",
-  "version": "0.1.2",
-  "description": "Convert a string to slug case.",
-  "keywords": ["slug", "case", "slugcase", "string"],
   "dependencies": {
-    "to-space-case": "0.1.2"
-  }
+    "to-space-case": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "keywords": [
+    "slug",
+    "case",
+    "slugcase",
+    "string"
+  ]
 }

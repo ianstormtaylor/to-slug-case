@@ -1,13 +1,11 @@
 
-var toSpace = require('to-space-case');
-
+var toSpace = require('to-space-case')
 
 /**
- * Expose `toSlugCase`.
+ * Export.
  */
 
-module.exports = toSlugCase;
-
+module.exports = toSlugCase
 
 /**
  * Convert a `string` to slug case.
@@ -16,7 +14,6 @@ module.exports = toSlugCase;
  * @return {String}
  */
 
-
-function toSlugCase (string) {
-  return toSpace(string).replace(/\s/g, '-');
+function toSlugCase(string) {
+  return toSpace(string).replace(/\s/g, '-')
 }
