@@ -22,6 +22,7 @@ toSlugCase('dot.case')    // "dot-case"
 toSlugCase('weird[case')  // "weird-case"
 ```
 
+
 ## API
 
 ### toSlugCase(string)
