@@ -17,7 +17,7 @@ $ npm install to-slug-case
 var toSlugCase = require('to-slug-case')
 
 toSlugCase('camelCase')   // "camel-case"
-toSlugCase('space case')  // "snake-case"
+toSlugCase('space case')  // "space-case"
 toSlugCase('dot.case')    // "dot-case"
 toSlugCase('weird[case')  // "weird-case"
 ```
